@@ -1,23 +1,24 @@
-    ∧＿∧     ようこそ！
-   （　´∀｀）    私のページへ！
-    ／     ＼   ゆっくりしていってね！
-   |  |     |  |
-    \_|     |_/
-      |  |  |
-      |  |  |
-      |  |  |
-      |  |  |
-      |  |  |
-      |  |  |
-      |  |  |
-      |  |  |
-      |  |  |
-      |  |  |
-      |  |  |
-      |  |  |
-      |  |  |
-      |  |  |
-      （＿（＿）
+       ∧＿∧     やあ  
+     （　´∀｀）    ようこそ徳山のGitHubへ  
+     ／      ＼   
+    |  |     |  |  
+     \_|     |_/  
+       |  |  |  
+       |  |  |  
+       |  |  |  
+       |  |  |  
+       |  |  |  
+       |  |  |  
+       |  |  |  
+       |  |  |  
+       |  |  |  
+       |  |  |  
+       |  |  |  
+       |  |  |  
+       |  |  |  
+       |  |  |  
+       （＿（＿）  
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TokuyamaTadahiro/TokuyamaTadahiro/output/github-contribution-grid-snake-dark.svg">

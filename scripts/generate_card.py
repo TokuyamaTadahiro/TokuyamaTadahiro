@@ -67,7 +67,7 @@ def main():
         .bg {{ fill: #0d1117; stroke: #30363d; stroke-width: 1px; rx: 10px; }}
     </style>
     <rect width="100%" height="100%" class="bg"/>
-    <text x="25" y="35" class="title">{OWNER}'s Activity & Languages</text>
+    <text x="25" y="35" class="title">{OWNER}'s Activity &amp; Languages</text>
     
     <text x="25" y="70" class="stat">🔥 1-Year Activity: {total_commits} Contributions</text>
     <text x="25" y="105" class="stat" font-weight="bold">📊 Top Languages (Public Only)</text>

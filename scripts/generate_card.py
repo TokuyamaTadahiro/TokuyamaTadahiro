@@ -32,7 +32,7 @@ query($login: String!) {
 """
 
 def main():
-  res = request.post(
+  res = requests.post(
       "https//api.github.com/graphql",
       json={"query": query, "variables": {"login": OWNER}},
       headers=headers
